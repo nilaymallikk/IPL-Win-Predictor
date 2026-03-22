@@ -23,7 +23,7 @@ cities = ['Bangalore', 'Hyderabad', 'Bengaluru', 'Mumbai', 'Indore',
 
 pipe = pickle.load(open('pipe.pkl','rb'))
 st.title('IPL win Prediction (Based on 2008 - 2025 data)')
-st.text('Build by: Nilay Mallik(23053865), Miltan Biswas(23053874), Aditya Palit, Satish Prajapati')
+st.text('Build by: Nilay Mallik, Miltan Biswas(23053874), Aditya Palit, Satish Prajapati')
 
 col1, col2 = st.columns(2)
 
